@@ -43,7 +43,7 @@ To turn raw water project data into a clear report that helps answer:
 
 **1. Dashboard:** the home page with KPI cards, a project completion map, cost by province, cost by improvement, and cost vs budget.
 
-**2. Cost Dashboard:** detailed cost analysis. *(Add a short description of your visuals here.)*
+**2. Cost Dashboard:** detailed cost analysis.
 
 **3. Report Dashboard:** detailed analysis with vendor tables, improvements by province, a Key Influencers visual, a scatter plot of completed projects vs average cost, and filters.
 
